@@ -17,7 +17,7 @@
 [Claude Code](https://claude.com/claude-code)가 설치되어 있어야 합니다.
 
 ```bash
-git clone https://github.com/woghks0524/edujip-register-skill.git ~/.claude/skills/edujip-register-generic
+git clone https://github.com/woghks0524/skill-edujip-register.git ~/.claude/skills/edujip-register-generic
 ```
 
 업데이트할 때:
